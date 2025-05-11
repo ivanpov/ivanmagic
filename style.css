@@ -1,0 +1,41 @@
+h1 {
+    background-color: rgb(86, 18, 116);
+    border-radius: 15px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+main p {
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header a {
+    background-color: purple;
+    text-decoration: none;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+}
+header {
+    background-color: indigo;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+footer a {
+    background-color: purple;
+    text-decoration: none;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+}
+footer {
+    background-color: indigo;
+    padding: 25px;
+    border-radius: 15px;
+}
